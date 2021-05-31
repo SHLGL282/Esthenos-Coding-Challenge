@@ -1,4 +1,4 @@
-# ReadME iRobot
+# Readme iRobot
 
 RobotGraphy Code is implemented to get robot location with provided instructions.
 
